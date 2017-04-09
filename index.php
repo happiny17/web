@@ -73,7 +73,7 @@
                         <article>
                             <div>
                                 <a href="shoe4.php"><img src="img/shoes/shoe4.jpg" alt=""></a>
-                                <h3>Nike SpringBreak</h3>
+                                <h3>bicleta SpringBreak</h3>
                                 <div class="gradientDiv"></div>
                             </div>
                         </article>
